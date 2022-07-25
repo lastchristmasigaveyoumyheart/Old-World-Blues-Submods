@@ -18,6 +18,8 @@ Welcome to the Old World Blues Submods wiki!
 
 [Map Altering](https://github.com/owb-submods/Old-World-Blues-Submods/wiki/Map-Altering)
 
+[Miscellaneous](https://github.com/owb-submods/Old-World-Blues-Submods/wiki/Miscellaneous)
+
 [New Nations](https://github.com/owb-submods/Old-World-Blues-Submods/wiki/New-Nations)
 
 [Portraits](https://github.com/owb-submods/Old-World-Blues-Submods/wiki/Portraits)
